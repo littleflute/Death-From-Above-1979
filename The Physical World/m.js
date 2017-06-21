@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Cheap Talk.mp3";		
+f[2]	= "02 Right On, Frankenstein.mp3";		
+f[3]	= "03 Virgins.mp3";		
+f[4]	= "04 Always On.mp3";		
+f[5]	= "05 Crystal Ball.mp3";		
+f[6]	= "06 White Is Red.mp3";		
+f[7]	= "07 Trainwreck 1979.mp3";		
+f[8]	= "08 Nothin' Left.mp3";		
+f[9]	= "09 Government Trash.mp3";		
+f[10]	= "10 Gemini.mp3";		
+f[11]	= "11 The Physical World.mp3";		
